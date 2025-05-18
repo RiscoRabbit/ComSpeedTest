@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ComIO": {
+      "commandName": "Project",
+      "commandLineArgs": "COM18 -c 1 -l 100"
+    }
+  }
+}
